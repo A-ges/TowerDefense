@@ -1,6 +1,6 @@
 # Castle Defender — Fall 2025
 
-**Name:** Andrey Geschiere
+**Implemented by:** Andrey Geschiere
 
 ## How to Compile
 
