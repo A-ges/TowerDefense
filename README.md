@@ -1,4 +1,4 @@
-# Castle Defender — Fall 2025
+# Castle Defender — Fall 2025 | Part of the Programming with C/C++ Minor Course
 
 **Implemented by:** Andrey Geschiere
 
