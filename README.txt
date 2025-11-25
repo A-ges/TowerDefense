@@ -1,7 +1,6 @@
 Castle Defender - Fall 2025
 ===========================
 Name: Andrey Geschiere
-Student Number: 2120505
 
 How to Compile:
 ----------------
@@ -19,10 +18,9 @@ Files Included:
 - Enemy.cpp / Enemy.h
 - Castle.cpp / Castle.h
 - AI.cpp / AI.h
-- Castle_Defender_Report_Andrey__Geschiere_F2025.pdf
-- README.txt
+- This README
 
 Notes:
 ------
 - Tested on Windows with MinGW g++ 6.3.0
-- Presentation Slides are placed on the Canvas Discussion Board
+
